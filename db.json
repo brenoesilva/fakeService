@@ -1,15 +1,21 @@
 {
 	"usuarios": [{
 			"nome": "Alice Martins",
-			"matricula": "123456"
+			"matricula": "123456",
+			"local_marcacao": "Rua Assis",
+			"data_marcacao": "2020-08-16 19:57:12"
 		},
 		{
 			"nome": "Rodrigo Dirk",
-			"matricula": "123455"
+			"matricula": "123455",
+			"local_marcacao": "Nasajon Sistemas",
+			"data_marcacao": "2020-06-16 18:57:12"
 		},
 		{
 			"nome": "Rafael Mendonça",
-			"matricula": "111111"
+			"matricula": "111111",
+			"local_marcacao": "Home Office",
+			"data_marcacao": "2020-08-16 09:57:12"
 		}
 	]
 }
