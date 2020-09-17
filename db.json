@@ -1,16 +1,16 @@
 {
-  usuarios : [
+  "usuarios" : [
       {
           "nome":"Alice Martins",
-          "matricula":123456
+          "matricula":"123456"
       },
       {
           "nome":"Rodrigo Dirk",
-          "matricula":123455,
+          "matricula":"123455",
       },
       {
           "nome": "Rafael Mendonça",
-          "matricula":'111111'
+          "matricula":"111111"
       }
   ]
 }
