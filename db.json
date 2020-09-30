@@ -2,20 +2,27 @@
 	"usuarios": [{
 			"nome": "Alice Martins",
 			"matricula": "123456",
-			"local_marcacao": "Rua Assis",
-			"data_marcacao": "2020-08-16 19:57:12"
+			"grupo": "Marketing",
+			"ativo" :"1"
 		},
 		{
 			"nome": "Rodrigo Dirk",
 			"matricula": "123455",
-			"local_marcacao": "Nasajon Sistemas",
-			"data_marcacao": "2020-06-16 18:57:12"
+			"grupo": "Desenvolvimento",
+			"ativo" :"1"
 		},
 		{
 			"nome": "Rafael Mendonça",
 			"matricula": "111111",
-			"local_marcacao": "Home Office",
-			"data_marcacao": "2020-08-16 09:57:12"
+			"grupo": "Desenvolvimento",
+			"ativo" :"1"
+		},
+		     {
+			"nome": "Suelen Mendonça",
+			"matricula": "222222",
+			"grupo": "Desenvolvimento",
+			"ativo" :"0"
 		}
+		     
 	]
 }
